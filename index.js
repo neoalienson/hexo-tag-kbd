@@ -1,7 +1,7 @@
 hexo.extend.tag.register('kbd', function(args, content) {
   var style = ""
             + "border:1px solid gray;"
-            + "font-size:1.2em;"
+            + "font-size:80%;"
             + "box-shadow:1px 0 1px 0 #eee, 0 2px 0 2px #ccc, 0 2px 0 3px #444;"
             + "-webkit-border-radius:3px;"
             + "-moz-border-radius:3px;"
